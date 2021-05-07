@@ -1,0 +1,26 @@
+.header1 {
+    margin-top: 305px;
+    width: 540px;
+    height: 164px;
+    font-size: 64px;
+    line-height: 82px;
+    font-weight: 700;
+}
+
+.infoLeft {
+    width: 540px;
+    height: 164px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    margin-left: 130px;
+}
+
+.IMG1 {
+    display: flex;
+    justify-content: right;
+    width: 575px;
+    height: 722px;
+    margin-top: 75px;
+    margin-left: 775px;
+}

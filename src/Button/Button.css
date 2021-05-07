@@ -1,0 +1,53 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.logo {
+    margin-left: 20px;
+
+}
+
+.nav {
+    display: flex;
+    margin-right: 10px;
+    align-items: center;
+}
+
+.nav *{
+    margin: 0px 10px;
+
+}
+
+.buttonPrimary {
+    background-color: #F1E4FF;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 31px 10px 31px;
+    color: #8C30F5;
+    font-weight: 700;
+
+
+}
+
+.buttonSecundary {
+    background-color: #8C30F5;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 31px 10px 31px;
+    color: white;
+    font-weight: 700;
+
+}
+
+.buttonPrimary:hover {
+    background-color: #8C30F5;
+    color: white;
+}
+
+.buttonSecundary:hover {
+    background-color: #F1E4FF;
+    color:  #8C30F5;
+}
+
