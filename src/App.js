@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header>
         <div>
-          <h3>LOGO HOLI</h3>
+          <h3>LOGO HOLI BRANCH NEW</h3>
         </div>
         <div className="nav">
             <p className="howWorks"> How it works</p>
